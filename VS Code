@@ -1,0 +1,6 @@
+## Install VS Code ##
+## MS Version not the OSS version##
+## Requires paru ##
+
+
+paru -S visual-studio-code-bin

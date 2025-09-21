@@ -1,0 +1,5 @@
+## Install Spotify ##
+## Requires yay ##
+
+yay -S spotify
+
